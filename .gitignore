@@ -1,0 +1,8 @@
+/Apps/
+/__pycache__/*
+/utils/__pycache__/*
+/infra/__pycache__/*
+/pages/__pycache__/*
+/actions/__pycache__/*
+/tests/__pycache__/*
+/result/*
